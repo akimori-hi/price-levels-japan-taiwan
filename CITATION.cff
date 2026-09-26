@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "このコードを利用する場合は、以下の情報を引用してください。"
+title: "所得で条件づけた物価水準の国際比較──日本・台湾のケース：分析コード"
+authors:
+  - family-names: "秋森"
+    given-names: "弘"
+    alias: "Hiroshi Akimori"
+date-released: 2026-09-26
+repository-code: "https://github.com/akimori-hi/price-levels-japan-taiwan"
+license: MIT
+keywords:
+  - purchasing power parity
+  - Penn effect
+  - price level
+  - Taiwan
+  - Japan
