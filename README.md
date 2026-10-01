@@ -1,11 +1,11 @@
 # 「安い日本円」と「本当に安い台湾ドル」──所得水準を考慮したドル建て物価の国際比較：分析コード
 
-秋森弘「「安い日本円」と「本当に安い台湾ドル」──所得水準を考慮したドル建て物価の国際比較」（『北星論集』、2027年3月刊行予定）の
+秋森弘「「安い日本円」と「本当に安い台湾ドル」──所得水準を考慮したドル建て物価の国際比較」（『北星論集』、2027年3月刊行）の
 分析コードと、そこから得られた処理済みデータ・集計表です。論文中の数値は、すべてこのリポジトリの
 実行済みノートブックから転記しています。
 
 Replication code for "'Cheap Japanese Yen' and the 'Truly Cheap Taiwan Dollar': An International Comparison of Dollar-Denominated Price Levels Adjusted for Income"
-(in Japanese, *Hokusei Review*, forthcoming March 2027). All figures in the paper are
+(in Japanese, *Hokusei Review*, March 2027). All figures in the paper are
 transcribed from the executed notebooks in this repository.
 
 ## 内容
